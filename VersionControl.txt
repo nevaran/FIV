@@ -1,3 +1,25 @@
+•0.1.0.0
+
+Changes:
+-Added virtualization to the thumbnail list. This should improve performance and avoid using excessive amount of CPU and memory to try and load all thumbnails at once.
+ Because of this the thumbnail box will be limited to a single column. Max thumbnail size increased to 240 due to this.
+-Window title is now case-sensitive.
+
+Updated:
+-MahApps to 2.0.1. Significant visual and behind the scenes changes.
+-Libraries.
+
+Fixed:
+-Crash when deleting an image if its the last one viewed.
+-Settings 'connection line' not changing accent if its on and user changes app accent colors.
+
+Optimizations:
+-Overall performance should be improved.
+-UI
+-Startup speed.
+-GIF tag on thumbnails render position.
+
+
 •0.0.2.3
 
 -Added a 'file type' option. This allows to change which images will be opened in the folder you have chosen.
