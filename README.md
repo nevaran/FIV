@@ -28,18 +28,10 @@ FIV uses libraries like MahApps to improve both visuality and functionality, Fod
 
 # App Screenshots
 
-![Main window](https://imgur.com/Rxd8P0i)
+![Main window](https://github.com/nevaran/FIV-Storage/blob/master/Screenshots/main.png)
 
-![Main with images](https://imgur.com/xWguXfL)
+![Main with images](https://github.com/nevaran/FIV-Storage/blob/master/Screenshots/mainwithimage.png)
 
-![Settings](https://imgur.com/Mcd9IQr)
+![Settings](https://github.com/nevaran/FIV-Storage/blob/master/Screenshots/settings.png)
 
-![Installation](https://imgur.com/pgKuZx2)
-
-![Main window](https://drive.google.com/uc?export=view&id=1P3nbqmnLtZ-HjBdndUt7I_LGjDWmuSi2)
-
-![Main with images](https://drive.google.com/uc?export=view&id=10xLmkqw877JAf8gtbtD5-zmwOKaB2F7t)
-
-![Settings](https://drive.google.com/uc?export=view&id=1G9XoAXB0DkxETMP9zCqT4gPMVbJhOXzy)
-
-![Installation](https://drive.google.com/uc?export=view&id=1ycinfeVctvCKknyislSwKOYukOCxwAxY)
+![Installation](https://github.com/nevaran/FIV-Storage/blob/master/Screenshots/installer.png)
