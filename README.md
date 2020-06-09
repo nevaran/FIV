@@ -35,3 +35,11 @@ FIV uses libraries like MahApps to improve both visuality and functionality, Fod
 ![Settings](https://imgur.com/Mcd9IQr)
 
 ![Installation](https://imgur.com/pgKuZx2)
+
+![Main window](https://drive.google.com/uc?export=view&id=1P3nbqmnLtZ-HjBdndUt7I_LGjDWmuSi2)
+
+![Main with images](https://drive.google.com/uc?export=view&id=10xLmkqw877JAf8gtbtD5-zmwOKaB2F7t)
+
+![Settings](https://drive.google.com/uc?export=view&id=1G9XoAXB0DkxETMP9zCqT4gPMVbJhOXzy)
+
+![Installation](https://drive.google.com/uc?export=view&id=1ycinfeVctvCKknyislSwKOYukOCxwAxY)
