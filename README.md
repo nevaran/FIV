@@ -6,7 +6,7 @@
 
 # About
 
-Fast Image Viewer (FIV) is a Windows standalone program created in C# using WPF, and uses Inno Setup for installing.
+Fast Image Viewer (FIV) is a Windows standalone program created in C# using WPF, and uses Inno Setup for installation.
 
 It improves significantly over the default Windows 7, 8, and 10 Image Viewers, supporting more types like .gif and .ico, capability
 to pause gifs, shortcuts to various useful functions, a folder view for ease of access to all images, and more!
