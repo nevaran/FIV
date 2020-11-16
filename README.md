@@ -31,6 +31,8 @@ FIV uses libraries like MahApps to improve both visuality and functionality, Fod
 
 [Magick.Net](https://github.com/dlemstra/Magick.NET)
 
+[FFME.Windows](https://github.com/unosquare/ffmediaelement)
+
 
 # Support
 
