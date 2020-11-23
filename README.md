@@ -23,11 +23,7 @@ FIV uses libraries like MahApps to improve both visuality and functionality, Fod
 
 [MahApps.Metro](https://github.com/MahApps/MahApps.Metro)
 
-[Gu Localization](https://github.com/GuOrg/Gu.Localization)
-
-[Fody](https://github.com/Fody/Fody)
-
-[Toast notifications](https://github.com/rafallopatka/ToastNotifications)
+[Notifications.Wpf.Core](https://github.com/mjuen/Notifications.Wpf.Core)
 
 [Magick.Net](https://github.com/dlemstra/Magick.NET)
 
