@@ -19,8 +19,6 @@ While incomplete, the app supports some localization with the ability to add mor
 
 # Libraries
 
-FIV uses libraries like MahApps to improve both visuality and functionality, Fody to reduce files count, Toast notifications, and Gu localization to support multiple languages.
-
 [MahApps.Metro](https://github.com/MahApps/MahApps.Metro)
 
 [Notifications.Wpf.Core](https://github.com/mjuen/Notifications.Wpf.Core)
